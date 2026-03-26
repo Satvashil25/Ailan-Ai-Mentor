@@ -1,0 +1,7 @@
+{
+  "name": "Ailan – Your Personal AI & LLM Mentor",
+  "description": "An interactive AI assistant that teaches AI, Machine Learning, Deep Learning, and LLMs step-by-step using text and voice.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
